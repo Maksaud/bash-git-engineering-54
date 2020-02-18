@@ -1,3 +1,9 @@
 # this is a title
 
-THIS IS SOME TEXT
+## this is a subtitle
+
+### this is another title
+
+Hello this is some text
+
+we will do docuentation using markdown
